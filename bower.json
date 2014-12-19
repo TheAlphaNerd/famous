@@ -73,7 +73,6 @@
     "Zeqiu Wu <allenwu1018@gmail.com>"
   ],
   "description": "Famo.us is a JavaScript framework for everyone who wants to build beautiful experiences on any device.",
-  "main": "src/",
   "moduleType": [
     "amd",
     "globals",
